@@ -19,15 +19,20 @@ This project is a **Stock Data Analysis** web application that allows users to f
 ## Screenshots
 
 <!-- Add some screenshots of your app here if available -->
-![Screenshot 1](![Screenshot 2025-05-29 142006](https://github.com/user-attachments/assets/7a75613f-3cef-4d77-bd36-34ac8a7781ac)
+![Screenshot 1](![Screenshot 2025-05-29 142006](![Screenshot 2025-05-29 142006](https://github.com/user-attachments/assets/b2a261d2-b918-4b8d-a1bf-09034666a771)
 )
-![Screenshot 2](![Screenshot 2025-05-29 142045](https://github.com/user-attachments/assets/fc7f30d2-b58d-4799-99b8-14e20c8b4e1d)
 )
-![Screenshot 3](![Screenshot 2025-05-29 142110](https://github.com/user-attachments/assets/4eddd63c-fc00-4570-95e8-dfae7ecbb892)
+![Screenshot 2](![Screenshot 2025-05-29 142045](![Screenshot 2025-05-29 142045](https://github.com/user-attachments/assets/ce03d1a1-0c23-445e-9307-7e5458a54b49)
 )
-![Screenshot 4](![Screenshot 2025-05-29 142147](https://github.com/user-attachments/assets/563079c6-3eb2-4d6d-83b7-40f493bd6c73)
 )
-![Screenshot 5](![Screenshot 2025-05-29 142421](https://github.com/user-attachments/assets/6425ccf7-1612-4692-8019-7fda121f0609)
+![Screenshot 3](![Screenshot 2025-05-29 142110]()![Screenshot 2025-05-29 142110](https://github.com/user-attachments/assets/ac808a0b-3e87-481b-bcce-fb2c63803f61)
+
+)
+![Screenshot 4](![Screenshot 2025-05-29 142147](![Screenshot 2025-05-29 142147](https://github.com/user-attachments/assets/685c9f79-8e33-4412-9f64-6b6fb45734b9)
+)
+)
+![Screenshot 5](![Screenshot 2025-05-29 142421](![Screenshot 2025-05-29 142421](https://github.com/user-attachments/assets/6ae80d8f-c69a-4056-99ea-f7fc613749c6)
+)
 )
 
 
